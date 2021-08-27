@@ -20,7 +20,7 @@ options(scipen=999)
 
 # Abrimos la base de datos bajándola del repositorio de Github.
 
-data <- read.csv("https://raw.githubusercontent.com/tomas-pacheco/ComoSeSienteElPresidente/main/data_qsep.csv")
+data <- read.csv("https://raw.githubusercontent.com/tomas-pacheco/ComoSeSienteElPresidente/main/data_csep.csv")
 
 # Le damos el formato deseado.
 
