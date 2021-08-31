@@ -1,8 +1,7 @@
 /* ------------------------------------------------------------------
-                   Universidad de San Andrés
-				Pronósticos Financieros - Examen final
+                   ¿Cómo se siente el presidente?
 	         Armado de base de datos - Datos COVID-19
-				  Kleiman, Pacheco y Riquelme
+				       Pacheco y Riquelme
  ------------------------------------------------------------------ */
 
 * In this do file we are goint go manipulate the COVID-19 data.

@@ -1,8 +1,7 @@
 /* ------------------------------------------------------------------
-                   Universidad de San Andrés
-				Pronósticos Financieros - Examen final
+				   ¿Cómo se siente el presidente?
 	                 Armado de base de datos
-				  Kleiman, Pacheco y Riquelme
+				        Pacheco y Riquelme
  ------------------------------------------------------------------ */
 
  * En este do file presentamos el armado de la base de datos.
