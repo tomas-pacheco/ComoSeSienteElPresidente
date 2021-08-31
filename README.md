@@ -1,6 +1,6 @@
 # ¿Como se siente el presidente?
 
-En este repositorio se encuentran los archivos necesarios para replicar el trabajo "¿Cómo se siente el presidente?" de Erika Kleiman, Tomás Pacheco y Abigail Riquelme.
+En este repositorio se encuentran los archivos necesarios para replicar el trabajo "¿Cómo se siente el presidente?" de Tomás Pacheco y Abigail Riquelme.
 
 ## Archivos
 
