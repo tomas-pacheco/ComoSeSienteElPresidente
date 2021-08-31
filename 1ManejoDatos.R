@@ -2,7 +2,7 @@
 #                                       #
 #     ¿Cómo se siente el presidente?    # 
 #                                       # 
-#       Kleiman, Pacheco y Riquelme     #  
+#          Pacheco y Riquelme           #  
 #                                       #
 #         1. Manejo de datos            #
 #########################################
